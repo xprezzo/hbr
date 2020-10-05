@@ -1,0 +1,15 @@
+{
+  "name": "extend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hbs": "git+https://github.com/xprezzo/hbs.git",
+    "xprezzo": "git+https://github.com/xprezzo/xprezzo.git"
+  }
+}
